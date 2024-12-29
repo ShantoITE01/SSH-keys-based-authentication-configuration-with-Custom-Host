@@ -44,7 +44,7 @@ By using public key authentication, you can significantly enhance the security o
 ![image](https://github.com/user-attachments/assets/88eb6dc2-90ac-4e8a-870f-bc37ede3ca12)
 Pic: ssh-authentication Architecture
 
-Step 1: Generate SSH Key Pair
+Step 1: Generate SSH Key Pair 
 Open a terminal on your local machine and run the following command:
 ssh-keygen -t rsa -b 2048
 
