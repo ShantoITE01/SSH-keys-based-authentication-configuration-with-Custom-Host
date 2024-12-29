@@ -41,8 +41,8 @@ Regular Key Rotation: Periodically rotate your SSH keys to mitigate the risk of 
 Limited Access: Only grant access to authorized users by adding their public keys to the authorized_keys file on the server.
 
 By using public key authentication, you can significantly enhance the security of your SSH connections while also streamlining the authentication process.
-![image](https://github.com/user-attachments/assets/88eb6dc2-90ac-4e8a-870f-bc37ede3ca12)
-                                     Pic: ssh-authentication Architecture
+![image](https://github.com/user-attachments/assets/69169146-53f5-4dd0-9914-acbe434be12b)
+                                         Pic: ssh-authentication Architecture
 Step 1: Generate SSH Key Pair 
 Open a terminal on your local machine and run the following command:
 ssh-keygen -t rsa -b 2048
