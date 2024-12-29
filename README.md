@@ -41,6 +41,8 @@ Regular Key Rotation: Periodically rotate your SSH keys to mitigate the risk of 
 Limited Access: Only grant access to authorized users by adding their public keys to the authorized_keys file on the server.
 
 By using public key authentication, you can significantly enhance the security of your SSH connections while also streamlining the authentication process.
+![image](https://github.com/user-attachments/assets/88eb6dc2-90ac-4e8a-870f-bc37ede3ca12)
+
 
 
 
